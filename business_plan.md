@@ -117,10 +117,10 @@ Dedicated production unit in East London (shared commercial kitchen with exclusi
 ### Year 1: Build the Brand
 
 **Markets and pop-ups (Q3–Q4 2026):**
+- **Peckham Levels** — home market and launch venue (SE15)
 - Broadway Market, Hackney (Saturday)
 - Maltby Street Market, Bermondsey (Saturday–Sunday)
 - Borough Market (guest stalls via Young Traders scheme)
-- Peckham Levels food market
 
 **Direct-to-consumer (Q4 2026):** Online store (Shopify). Subscription option ("The Ferment Club" — monthly jar, recipe card, newsletter on koji culture and London food).
 
@@ -183,16 +183,16 @@ Target: Waitrose, M&S Food, Ocado. Given Waitrose's documented 71% gochujang gro
 
 ## 6. The Team
 
-**[Founder 1]** — [Background: food science / culinary / fermentation experience]. Leads production, recipe development, and food safety compliance.
+**Rose** — Microbiology graduate and data scientist. Leads production, fermentation science, recipe development, and food safety compliance. Rose brings scientific rigour to every batch — tracking culture development and fermentation conditions with the same precision she applies to data analysis professionally.
 
-**[Founder 2]** — [Background: business / marketing / design]. Leads brand, sales, and commercial relationships.
+**Laura** — Illustrator and restaurateur. Leads brand identity, design, sales, and commercial relationships. Laura has run restaurants and designed food experiences professionally; she brings hospitality instinct, visual sensibility, and deep knowledge of what makes a product memorable on a shelf and in a kitchen.
 
-Both founders bring complementary skills and shared conviction that the koji moment in British food culture is now. We have been making koji at home for [X] years, have attended [courses/events], and have developed a recipe that has received consistent positive feedback from [tasting events / chef collaborators].
+Both founders are based in South East London and have been developing the Koji Mite recipe in Peckham for two years. The product has been tested at informal tastings with chefs and food industry contacts with consistently positive feedback.
 
 **Advisors sought:**
 - Food safety / FSA regulatory consultant
 - Wholesale distribution specialist
-- Chef ambassador (Korean or fusion background)
+- Chef ambassador (Korean or Korean-British background)
 
 ---
 
